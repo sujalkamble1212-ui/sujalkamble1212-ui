@@ -33,22 +33,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sujalkamble1212-ui&theme=dark&hide_border=true&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sujalkamble1212-ui&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkamble1212-ui&theme=dark&hide_border=true&layout=compact)
-
----
-
-# 🚀 Featured Project
-
-### 🩺 MedAI – Skin Disease Prediction
-AI-powered system that predicts skin diseases using deep learning (CNN) and image processing.
-
----
 
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
