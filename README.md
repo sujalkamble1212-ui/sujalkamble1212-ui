@@ -35,11 +35,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sujalkamble1212-ui&theme=dark&hide_border=true&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=your-username&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=sujalkamble1212-ui&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkamble1212-ui&theme=dark&hide_border=true&layout=compact)
 
 ---
 
