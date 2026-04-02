@@ -2,7 +2,6 @@
 💻 Aspiring Software Developer  
 🤖 Passionate about Artificial Intelligence & Machine Learning  
 🚀 Building real-world projects 
-
 🌱 Currently learning **Full Stack Development & Advanced ML**  
 🎯 Goal: To become a skilled Software Engineer and build impactful solutions  
 
